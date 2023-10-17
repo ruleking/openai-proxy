@@ -1,0 +1,16 @@
+{
+  "name": "openai-proxy",
+  "version": "1.0.0",
+  "description": "A proxy for OpenAI API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["OpenAI", "Proxy"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
