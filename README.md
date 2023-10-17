@@ -4,4 +4,4 @@ When you run into issues connecting to OpenAI, due to VPN restrictions or so, us
 - run `yarn` to install packages
 - run `yarn start` to start
 
-I use this in combination with [MindMac](https://mindmac.app/). Note that need a ChatGPT API key, preferably with GPT4 model rights.
+I use this in combination with [MindMac](https://mindmac.app/). Note that you need a ChatGPT API key, preferably with GPT4 model rights.
